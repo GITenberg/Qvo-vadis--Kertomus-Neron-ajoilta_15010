@@ -1,0 +1,39 @@
+_repo: Qvo-vadis--Kertomus-Neron-ajoilta_15010
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15010'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Nero, 54-68 -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PG'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'Qvo vadis: Kertomus Neron ajoilta'
+url: http://www.gutenberg.org/ebooks/15010
