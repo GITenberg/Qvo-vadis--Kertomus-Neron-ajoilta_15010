@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15010#Qvo-vadis--Kertomus-Neron-ajoilta
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-02-10'
 gutenberg_type: Text
